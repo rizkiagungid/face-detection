@@ -3,12 +3,6 @@ Face detection from webcam in browser using javascript library face-api.js
 
 Streaming webcam on desktop computer or mobile, there is function to switch back or front cameras on mobile 
 
-## Live Demo
-**[https://bensonruan.com/face-detection-with-face-api-js/](https://bensonruan.com/face-detection-with-face-api-js/)**
-
-![faceapi](https://bensonruan.com/wp-content/uploads/2019/08/benson-face.gif)
-
-
 ## Installing
 Clone this repository to your local computer
 ``` bash
